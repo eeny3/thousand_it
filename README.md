@@ -1,7 +1,3 @@
-# thousand_it_test
-
-A new Flutter application.
-
 # screenshots:
 ![](https://sun9-2.userapi.com/sBy9yljWsnctxyuq6rU6aO9ScAqWhJHx9VmIqQ/w5JXgU2vl9s.jpg "feed")
 ![](https://sun9-8.userapi.com/yhF-FsNy3rjiFEeMQ1Z4s0TJd9jl_w2xkeLKUw/-5mLzT0dWzA.jpg "screen orientation handled")
